@@ -14,7 +14,7 @@ export default siteConfig({
   author: '墨小晨',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '分享资源写作教程',
 
   // social usernames (optional)
   // mastodon: '#', // optional mastodon profile URL, provides link verification
