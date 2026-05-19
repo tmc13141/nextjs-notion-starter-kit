@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '墨晨资源笔记',
-  domain: 'https://dh.889399.xyz/',
+  domain: 'dh.889399.xyz/',
   author: '酷小呵 ',
   includeNotionIdInUrls: true,
   // open graph metadata (optional)
