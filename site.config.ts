@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: '墨晨资源笔记',
-  domain: 'notes.kuhehe.top',
-  author: '酷小呵 kuhehe.top',
+  domain: 'https://dh.889399.xyz/',
+  author: '酷小呵 ',
   includeNotionIdInUrls: true,
   // open graph metadata (optional)
   description: '墨晨资源笔记，收集分享考试备考资料与办公实用教程，希望对你有用～',
